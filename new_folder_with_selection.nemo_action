@@ -8,7 +8,7 @@ Comment[en]=Creates a new folder with the selected items
 
 Exec=<new_folder_with_selection.sh %P %F>
 
-Icon-Name=group-new
+Icon-Name=folder-new
 
 Selection=notnone
 
