@@ -2,10 +2,11 @@
 
 Active=true
 
-Name[en]=Create New Folder with Selection
+Name[en]=Create new folder with selection
+Name [pt]=Criar nova pasta com seleção
 
 Comment[en]=Creates a new folder with the selected items
-
+Comment[pt]=Cria uma nova pasta com os itens selecionados
 Exec=<new_folder_with_selection.sh %P %F>
 
 Icon-Name=folder-new
